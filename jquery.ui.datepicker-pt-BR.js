@@ -4,8 +4,8 @@ jQuery(function ($) {
 		{
 			$.datepicker.regional['pt-BR'] = {
 				closeText: 'Fechar',
-				prevText: '&#x3c;Anterior',
-				nextText: 'Pr&oacute;ximo&#x3e;',
+				prevText: 'Anterior',
+				nextText: 'Pr&oacute;ximo',
 				currentText: 'Hoje',
 				monthNames: ['Janeiro','Fevereiro','Mar&ccedil;o','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'],
 				monthNamesShort: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'],
